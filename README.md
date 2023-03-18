@@ -15,5 +15,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahil-ingle/sahil-ingle/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+![snake gif](https://github.com/GabrielBogo1/GabrielBogo1/blob/output/github-contribution-grid-snake.svg)
 
