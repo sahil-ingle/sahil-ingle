@@ -1,24 +1,76 @@
-# 💫 About Me:
- 🔭 Currently building **Flutter apps**  <br>- 🧑‍💻 Interested in **Machine Learning & Ethical Hacking**  <br>- 🎯 Focused on **Android app development**  <br>- 💤 Sometimes low energy… but chess & coding recharge me ♟️  
+# 👋 Hey, I'm Sahil
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ethical+Hacker+in+Progress;Penetration+Testing+%F0%9F%94%90;Arch+Linux+Enjoyer+%F0%9F%90%A7;Former+Flutter+Developer+%F0%9F%93%B1" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahil-ingle&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sahil-ingle&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-ingle&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+🔐 Currently diving deep into **Ethical Hacking & Penetration Testing**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sahil-ingle&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+📱 Previously built multiple **Flutter applications**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-ingle/) 
+🐧 Arch Linux enthusiast who spends way too much time customizing the terminal
+
+🌐 Learning **Web Security, Linux Internals, Networking & Exploitation**
+
+♟️ Chess player • Problem solver • Lifelong learner
+
+> "Break it. Understand it. Secure it."
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sahil-ingle&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+### 🔐 Security
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=arch-linux\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+
+### 📱 Development
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+
+---
+
+## 🎯 Current Mission
+
+* 🛡️ Penetration Testing
+* 🌐 Web Application Security
+* 🏴 CTF Challenges
+* 🔍 Security Research
+* 🐞 Bug Hunting
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sahil-ingle\&theme=tokyonight\&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=sahil-ingle\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-ingle\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+### 🧠 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sahil-ingle/)
+
+---
+
+⚠️ Security projects are for educational purposes and authorized testing only.
+
+![](https://visitcount.itsvg.in/api?id=sahil-ingle\&icon=5\&color=6)
