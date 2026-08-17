@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sahil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ethical+Hacker+in+Progress;Penetration+Testing+%F0%9F%94%90;Red+Teamer+%F0%9F%90%A7;Bug+Bounty+Hunter+%F0%9F%93%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Penetration+Testing+%F0%9F%94%90;Red+Teamer+%F0%9F%90%A7;Bug+Bounty+Hunter+%F0%9F%93%B1" />
 
 ## 🚀 About Me
 
