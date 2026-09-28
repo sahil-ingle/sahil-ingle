@@ -1,76 +1,71 @@
-# 👋 Hey, I'm Sahil
+# `sahil@root`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Penetration+Testing+%F0%9F%94%90;Red+Teamer+%F0%9F%90%A7;Bug+Bounty+Hunter+%F0%9F%93%B1" />
+> **Security · Development · Automation**
 
-## 🚀 About Me
+I build things, break things, and figure out why they broke.
 
-🔐 Currently diving deep into **Ethical Hacking & Penetration Testing**
+```text
+┌─[ ~/sahil ]────────────────────────────────────────────┐
+│                                                        │
+│  [STATUS]  building & learning                         │
+│  [FOCUS]   offensive security · development            │
+│  [LAB]     linux · homelab · self-hosted tools         │
+│  [STACK]   python · flutter · bash                     │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
 
-📱 Previously built multiple **Flutter applications**
+### `whoami`
 
-🐧 Arch Linux enthusiast who spends way too much time customizing the terminal
+Cybersecurity professional interested in **offensive security, threat detection, automation, and software development**.
 
-🌐 Learning **Web Security, Linux Internals, Networking & Exploitation**
+I enjoy turning security concepts into things I can actually build, test, break, and improve.
 
-♟️ Chess player • Problem solver • Lifelong learner
+```bash
+$ cat interests.txt
 
-> "Break it. Understand it. Secure it."
+offensive-security
+defensive-security
+web-security
+threat-hunting
+linux
+automation
+app-development
+```
 
----
+### `toolbox`
 
-## 💻 Tech Stack
+```text
+┌─ offensive ──────────────────────────────────────────────┐
+│  Recon       Nmap · DNS · OSINT                          │
+│  Web         Burp Suite · OWASP                          │
+│  Network     Wireshark · Netcat                          │
+│  Labs        Linux · CTFs · Home Labs                    │
+└─────────────────────────────────────────────────────────┘
+```
 
-### 🔐 Security
+### `philosophy`
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=arch-linux\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+> **Don't just learn how it works.**
+>
+> **Build it. Break it. Understand it.**
 
-### 📱 Development
+### `stats`
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-ingle&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-ingle&hide_border=true&theme=transparent" />
+</p>
 
----
+### `connect`
 
-## 🎯 Current Mission
+```text
+GitHub   → github.com/sahil-ingle
+LinkedIn → linkedin.com/in/sahil-ingle
+```
 
-* 🛡️ Penetration Testing
-* 🌐 Web Application Security
-* 🏴 CTF Challenges
-* 🔍 Security Research
-* 🐞 Bug Hunting
+```bash
+$ exit
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sahil-ingle\&theme=tokyonight\&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sahil-ingle\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-ingle\&theme=tokyonight\&hide_border=true\&layout=compact)
-
----
-
-### 🧠 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sahil-ingle/)
-
----
-
-⚠️ Security projects are for educational purposes and authorized testing only.
-
-![](https://visitcount.itsvg.in/api?id=sahil-ingle\&icon=5\&color=6)
+Connection closed.
+```
